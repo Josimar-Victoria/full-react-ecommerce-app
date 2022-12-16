@@ -36,7 +36,7 @@ function Header () {
             <div className='col-2'>
               <h2>
                 <Link to='/' className='text-white'>
-                  Dev Corner
+                  Full Ecommer
                 </Link>
               </h2>
             </div>
